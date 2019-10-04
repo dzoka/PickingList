@@ -1,3 +1,3 @@
 # PickingList
 
-A project to use Raspberry Pi with touchscreen in production floor to submit the parts used to Dynamics AX 2009 Picking List journal.
+A project to use Raspberry Pi with touchscreen and barcode scanner in production floor to submit the parts used to Dynamics AX 2009 Picking List journal.
